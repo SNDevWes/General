@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @WesselSnow
 - 👀 I’m interested in ServiceNow & Coding
 - 🌱 I’m currently learning Javacsript, HTML & CSS
 
